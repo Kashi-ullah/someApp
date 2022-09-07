@@ -8,9 +8,9 @@ function App() {
     <input ></input>
     <button className='btn-primary' >Save Info</button>
 
-    <hr></hr>
+    <hr></hr> <hr></hr>
 
-    <button>Show Records</button>
+    <button>Show Record</button>
   </div>
   );
 }
