@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>Lets Get Start</h1>
+    <h1>Lets Get Stsart</h1>
     <input ></input>
     <button className='btn-primary' >Save Info</button>
 
