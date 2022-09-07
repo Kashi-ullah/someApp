@@ -10,7 +10,7 @@ function App() {
 
     <hr></hr>
 
-    <button>Show Record</button>
+    <button>Show Records</button>
   </div>
   );
 }
